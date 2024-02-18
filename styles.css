@@ -72,5 +72,12 @@
     box-shadow: 0 0 5px var(--tertiary-color);
 }
 
+.btn-large {
+    font-size: 16px;
+    padding: 12px 36px;
+}
 
-
+.btn-small {
+    font-size: 12px;
+    padding: 4px 12px;
+}

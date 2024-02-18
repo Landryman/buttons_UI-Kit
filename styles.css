@@ -1,3 +1,9 @@
+:root {
+    --primary-color: #3457dc;
+    --secondary-color: #ea4d67;
+    --tertiary-color: #ea674d;
+}
+
 .btn {
     border-radius: 2px;
     border: 1px solid;
@@ -65,3 +71,6 @@
 .btn-tertiary:focus {
     box-shadow: 0 0 5px var(--tertiary-color);
 }
+
+
+
